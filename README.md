@@ -2,7 +2,7 @@
 A Streamlit-based web application that predicts the number of kilocalories burned based on user inputs like Age, BMI, Duration, Heart Rate, Body Temperature, and Gender. Additionally, it provides statistical comparisons and similar records from an existing dataset.
 ##  Try It Now
 Click the link to launch the app instantly:  
-[**Personal Fitness Tracker**](https://personal-fitness-tracker-run.streamlit.app/)
+[**Personal Fitness Tracker**](https://fittnes-tracker-jcfpvxd4updrrfava5vpza.streamlit.app/)
 
 ---
 ##  Features
